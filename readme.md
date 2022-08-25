@@ -1,6 +1,4 @@
 <div align="center">
-<!-- 
-![MasterHead](<img src="https://github.com/RobbieProkop/github-profile/blob/master/github-header-image.png"/>) -->
 <img src="github-header-image.png"/> 
 </br>
 </br>
