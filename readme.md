@@ -1,11 +1,11 @@
 <div align="center">
-
-![MasterHead](https://i.imgur.com/wdqGIU4.png)
+<!-- 
+![MasterHead](<img src="https://github.com/RobbieProkop/github-profile/blob/master/github-header-image.png"/>) -->
 </br>
 </br>
 
 <div align="left">
-<p alignt="left"> I'm a recent graduate of Lighthouse Labs Web Dev bootcamp, with a background in pharmacology and high-end fashion retail. </br> I'm a passionate learner who loves science and art. I love the analytical aspect of coding, but also how it lets you to be creative in approaching various problems. </br> It's always exciting to create something what you could only dream for before - especially if others can enjoy it too! I'm always open for collaborations and projects, so feel free to poke me! </p>
+<p alignt="left"> I'm a recent graduate of the Lighthouse Labs Web Development bootcamp, with a background in teaching elementary and junior high school students. </br> I am eager to learn more about development! So let's connect and make a project together!</p>
 </div>
 
 </br>
