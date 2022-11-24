@@ -4,7 +4,7 @@
 </br>
 
 <div align="left">
-<p alignt="left"> I'm a recent graduate of the Lighthouse Labs Web Development bootcamp, with a background in teaching elementary and junior high school students. </br> I am eager to learn more about development! So let's connect and make a project together!</p>
+<p align="left"> I'm a recent graduate of the Lighthouse Labs Web Development bootcamp, with a background in teaching elementary and junior high school students. </br> I am eager to learn more about development! So let's connect and make a project together!</p>
 </div>
 
 </br>
@@ -48,8 +48,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="40" /> 
 <!-- ruby -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40"/> 
-<!-- jquery -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"/> 
+<!-- tailwind -->
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
 <!-- Bootstrap -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 <!-- Figma -->
