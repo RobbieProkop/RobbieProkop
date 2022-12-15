@@ -79,8 +79,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbieProkop&layout=compact&theme=dracula)](<[https://github.com/anuraghazra/github-readme-stats](https://github.com/RobbieProkop)>)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobbieProkop&theme=dracula)]([https://github.com/RobbieProkop])
-
 </br>
 
 ## Feel free to contact me
