@@ -4,7 +4,10 @@
 </br>
 
 <div align="left">
-<p align="left"> I'm a recent graduate of the Lighthouse Labs Web Development bootcamp, with a background in teaching elementary and junior high school students. </br> I am eager to learn more about development! So let's connect and make a project together!</p>
+<p align="left">I'm a web developer, currently working on contract for <a href="https://www.fl2f.ca/home">FL2F</a>. In 2022, I graduated from the Lighthouse Labs Web Development bootcamp, learing fullstack development with JavaScript, PostgreSQL, and a little Ruby on Rails. Now I am teaching myself Python, docker, MySQL, and other great technologies. 
+<br>
+<br>
+ Prior to becoming a web developer, I had a background in teaching elementary and junior high school students. </br> I am eager to learn more about development! So let's connect and make a project together!</p>
 </div>
 
 </br>
