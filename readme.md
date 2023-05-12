@@ -91,7 +91,7 @@
 <p >
 <a href="https://www.linkedin.com/in/robbie-prokop-1a968a230/" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/></a>
-<a href="https://drive.google.com/file/d/1_e0LwTBXzcxDUDTL6o62QyrEyVSqg0Xe/view" target="_blank">
+<a href="https://flowcv.com/resume/sdqld3o6di" target="_blank">
 <img align="center" src="./cv.png"  width="40" height="40"/></a>
 </p>
 
