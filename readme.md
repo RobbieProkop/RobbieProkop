@@ -4,76 +4,180 @@
 </br>
 
 <div align="left">
-<p align="left">I'm a web developer, currently working on contract for <a href="https://www.fl2f.ca/home">FL2F</a>. In 2022, I graduated from the Lighthouse Labs Web Development bootcamp, learing fullstack development with JavaScript, PostgreSQL, and a little Ruby on Rails. Now I am teaching myself Python, docker, MySQL, and other great technologies. 
-<br>
-<br>
- Prior to becoming a web developer, I had a background in teaching elementary and junior high school students. </br> I am eager to learn more about development! So let's connect and make a project together!</p>
+<p align="left">I'm a full-stack web developer based out of Calgary, AB, currently working as a freelancer. Prior to freelancing, I was working on contract as a full-stack web developer for <a href="https://www.fl2f.ca/home">FL2F</a>. </p>
+
+🌱  In my freetime, I'm working on building a chess app and a custom chess engine. 
+
+⚡ When I'm not programming, I'm either meditating at a Vipassana Center, volunteering at one, or I'm playing with my cat and dog.
 </div>
 
 </br>
+---
+
+<!-- 
+<section align="center">
+<h2>Projects</h2>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Crown Clothing</h3>
+
+![](https://user-images.githubusercontent.com/101907461/221061539-22206763-6b12-44df-b094-91401964bd32.png)
+
+  <p>
+  <a href="https://github.com/chunloy/crwn-clothing" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+  <a href="https://crwn-clothing-build.uw.r.appspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
+  
+  </a>  
+      </p>
+        <p><strong>Node, React, React Router, Styled-Components, Firebase</strong> – An e-commerce app inspired by my success in skateboarding. Project is still in progress, but a preview is available in the link above.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Scheduler</h3>
+
+![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
+
+  <p>
+  <a href="https://github.com/chunloy/scheduler" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+    
+  </a>  
+      </p>
+        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
+    </td>
+  </tr>
+  
+  <tr>
+<td width="50%" valign="top">
+      <h3>Desktop CNC Router</h3>
+
+![](https://user-images.githubusercontent.com/101907461/198864499-5bbf4c53-9ba6-46de-b318-ab3bd06fe02f.jpeg)
+
+  <p>
+  <a href="https://github.com/chunloy/desktop-cnc-router" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+      </p>
+        <p><strong>An Iron Man themed desktop CNC router built using steel tubing and 3D printed components</strong> – Leverages a modified version of the Marlin platform to support for 3-axis milling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Wi-Fi Web & Voice Remote</h3>
+
+![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
+
+  <p>
+  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>  
+      </p>
+        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WiFi-enabled microcontroller and IR sensors.</p>
+    </td>
+    
+  </tr>
+</table>
+</section> -->
 
 ## Current Tech Stack
+---
 
-<p>
-<!-- html5 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> 
-<!-- css -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
-<!-- sass -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> 
+### Languages
+
 <!-- Vanilla JS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> 
-<!-- react -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="40" height="40"/>
-<!-- Next JS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-<!-- Redux -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
-<br>
-<!--node JS  -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" /> 
-<!-- express -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-<!-- heroku -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"  width="40" height="40"/>
-<!-- Netlify -->
-<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"  width="40" height="40"/>
-<!-- postgres -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40" /> 
-<!-- mongoDB -->
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" /> 
-<br>
-<!-- git -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<!-- npm -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" /> 
-<!-- ruby on rails -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="40" />  -->
-<!-- ruby -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40"/>  -->
-<!-- tailwind -->
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
-<!-- Bootstrap -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<!-- Figma -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<br>
-<!-- Jest -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/> 
-<!-- Mocha Chai -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" height="40" />
-<!-- storybook -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/> 
+<!-- TypeScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> 
+<!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> 
+<!-- SASS-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/> 
 
- </p>
+</br> 
+
+### Libraries and Frameworks
+
+<!-- react -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="50" height="50"/>
+<!-- Next JS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+<!-- Redux -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
+<!--node JS  -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50" /> 
+<!-- express -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+<!-- tailwind -->
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/> 
+<!-- Bootstrap -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/>
+<!-- Figma -->
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
+
 </br>
+
+
+### Databases
+
+<!-- postgres -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50" /> 
+<!-- mysql -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60" height="60" /> 
+<!-- mongoDB -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" /> 
+
+</br>
+
+### Hosting
+
+<!-- heroku -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"  width="50" height="50"/>
+<!-- Netlify -->
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"  width="50" height="50"/>
+<!-- google cloud -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"  width="50" height="50"/>
+
+</br>
+
+### Tools
+
+<!-- VSCode -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="50" height="50"/>
+<!-- git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+<!-- github -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="git" width="50" height="50"/>
+<!-- npm -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" /> 
+<!-- docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" /> 
+<!-- json -->
+<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" width="50" height="50" /> 
+<!-- wordpress -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50" /> 
+
+</br>
+
+### Testing
+
+<!-- Jest -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/> 
+<!-- Mocha Chai -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="50" height="50" />
+<!-- storybook -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  width="50" height="50"/>
+
+
 
 ### Next in line to learn
 
-<p>
+
 <!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
-</p>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" />
+
 </br>
 
 ## Github Stats
@@ -90,9 +194,9 @@
 
 <p >
 <a href="https://www.linkedin.com/in/robbie-prokop-1a968a230/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40"/></a>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="50" height="50"/></a>
 <a href="https://flowcv.com/resume/sdqld3o6di" target="_blank">
-<img align="center" src="./cv.png"  width="40" height="40"/></a>
+<img align="center" src="./cv.png"  width="50" height="50"/></a>
 </p>
 
   </div>
