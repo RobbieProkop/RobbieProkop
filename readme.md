@@ -6,15 +6,15 @@
 <div align="left">
 <p align="left">I'm a full-stack web developer based out of Calgary, AB, currently working as a freelancer. Prior to freelancing, I was working on contract as a full-stack web developer for <a href="https://www.fl2f.ca/home">FL2F</a>. </p>
 
-🌱  In my freetime, I'm working on building a chess app and a custom chess engine. 
+🌱 In my freetime, I'm working on building a chess app and a custom chess engine.
 
 ⚡ When I'm not programming, I'm either meditating at a Vipassana Center, volunteering at one, or I'm playing with my cat and dog.
+
 </div>
 
-</br>
----
+## </br>
 
-<!-- 
+<!--
 <section align="center">
 <h2>Projects</h2>
 <table bordercolor="#66b2b2">
@@ -27,11 +27,11 @@
   <p>
   <a href="https://github.com/chunloy/crwn-clothing" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
+  </a>
   <a href="https://crwn-clothing-build.uw.r.appspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
-  
-  </a>  
+
+  </a>
       </p>
         <p><strong>Node, React, React Router, Styled-Components, Firebase</strong> – An e-commerce app inspired by my success in skateboarding. Project is still in progress, but a preview is available in the link above.</p>
     </td>
@@ -43,13 +43,13 @@
   <p>
   <a href="https://github.com/chunloy/scheduler" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-    
-  </a>  
+
+  </a>
       </p>
         <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
     </td>
   </tr>
-  
+
   <tr>
 <td width="50%" valign="top">
       <h3>Desktop CNC Router</h3>
@@ -59,7 +59,7 @@
   <p>
   <a href="https://github.com/chunloy/desktop-cnc-router" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
+  </a>
       </p>
         <p><strong>An Iron Man themed desktop CNC router built using steel tubing and 3D printed components</strong> – Leverages a modified version of the Marlin platform to support for 3-axis milling.</p>
     </td>
@@ -71,16 +71,17 @@
   <p>
   <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
+  </a>
       </p>
         <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WiFi-enabled microcontroller and IR sensors.</p>
     </td>
-    
+
   </tr>
 </table>
 </section> -->
 
 ## Current Tech Stack
+
 ---
 
 ### Languages
@@ -94,40 +95,39 @@
 <!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/> 
 <!-- SASS-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50"/>
 
-</br> 
+</br>
 
 ### Libraries and Frameworks
 
 <!-- react -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="50" height="50"/>
 <!-- Next JS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=next" width="50" height="50" />
+<!-- Astro -->
+<img src="https://skillicons.dev/icons?i=astro" width="50" height="50" />
 <!-- Redux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
 <!--node JS  -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50" /> 
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /> 
 <!-- express -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=express" width="50" height="50"/>
 <!-- tailwind -->
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/> 
 <!-- Bootstrap -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/>
-<!-- Figma -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
 
 </br>
-
 
 ### Databases
 
 <!-- postgres -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50" /> 
 <!-- mysql -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60" height="60" /> 
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" /> 
 <!-- mongoDB -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" /> 
+<img src="https://skillicons.dev/icons?i=mongo" width="50" height="50" />
 
 </br>
 
@@ -138,7 +138,7 @@
 <!-- Netlify -->
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"  width="50" height="50"/>
 <!-- google cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"  width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=googlecloud"  width="50" height="50"/>
 
 </br>
 
@@ -147,17 +147,19 @@
 <!-- VSCode -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="50" height="50"/>
 <!-- git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
 <!-- github -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="git" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" alt="git" width="50" height="50"/>
 <!-- npm -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" /> 
 <!-- docker -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50" /> 
 <!-- json -->
 <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" width="50" height="50" /> 
+<!-- Figma -->
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
 <!-- wordpress -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50" /> 
+<img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" />
 
 </br>
 
@@ -170,10 +172,7 @@
 <!-- storybook -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg"  width="50" height="50"/>
 
-
-
 ### Next in line to learn
-
 
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" />
