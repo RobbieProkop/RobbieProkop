@@ -40,7 +40,8 @@
 
 <h3>DhammaDevs</h3>
 
-![](https://github.com/RobbieProkop/portfolio/blob/master/asset/images/portfolio-gif.gif)
+<!-- ![](https://github.com/RobbieProkop/portfolio/blob/master/asset/images/portfolio-gif.gif) -->
+<img src="https://github.com/RobbieProkop/portfolio/blob/master/asset/images/portfolio-gif.gif" style="max-height: 235px">
 
   <p>
   <a href="https://github.com/RobbieProkop/portfolio" target="_blank">
@@ -74,8 +75,9 @@
 <td width="50%" valign="top">
       <h3>Chess Game & Engine</h3>
 
-![](https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png)
+<!-- ![](https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png) -->
 
+<img src="https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png" style="max-height: 220px">
   <p>
   <a href="https://github.com/RobbieProkop/chess" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
