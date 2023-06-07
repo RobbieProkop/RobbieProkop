@@ -14,26 +14,27 @@
 
 ## </br>
 
-<!--
 <section align="center">
 <h2>Projects</h2>
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3>Crown Clothing</h3>
+      <h3>Amanda Prokop RMT</h3>
 
-![](https://user-images.githubusercontent.com/101907461/221061539-22206763-6b12-44df-b094-91401964bd32.png)
+![](https://github.com/RobbieProkop/amanda-2023/blob/master/public/assets/originals/Screenshot%202023-05-31%20at%2016.56.43.png)
+
+<!-- ![](https://user-images.githubusercontent.com/101907461/221061539-22206763-6b12-44df-b094-91401964bd32.png) -->
 
   <p>
-  <a href="https://github.com/chunloy/crwn-clothing" target="_blank">
+  <a href="https://github.com/RobbieProkop/amanda-2023" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://crwn-clothing-build.uw.r.appspot.com/" target="_blank">
+  <a href="https://amandaprokop.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
 
   </a>
       </p>
-        <p><strong>Node, React, React Router, Styled-Components, Firebase</strong> – An e-commerce app inspired by my success in skateboarding. Project is still in progress, but a preview is available in the link above.</p>
+        <p><strong>Astro, React, Svelte, SCSS</strong> – Website for a Calgary based Message Therapist</p>
     </td>
     <td width="50%" valign="top">
       <h3>Scheduler</h3>
@@ -41,7 +42,7 @@
 ![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
 
   <p>
-  <a href="https://github.com/chunloy/scheduler" target="_blank">
+  <a href="https://github.com/RobbieProkop/scheduler" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
 
   </a>
@@ -52,33 +53,39 @@
 
   <tr>
 <td width="50%" valign="top">
-      <h3>Desktop CNC Router</h3>
 
-![](https://user-images.githubusercontent.com/101907461/198864499-5bbf4c53-9ba6-46de-b318-ab3bd06fe02f.jpeg)
+<h3>DhammaDevs</h3>
+
+![](https://github.com/RobbieProkop/portfolio/blob/master/asset/images/portfolio-gif.gif)
 
   <p>
-  <a href="https://github.com/chunloy/desktop-cnc-router" target="_blank">
+  <a href="https://github.com/RobbieProkop/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
+  <a href="https://dhammadevs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-3880FF?style=for-the-badge&logoColor=white">
+
+  </a>
       </p>
-        <p><strong>An Iron Man themed desktop CNC router built using steel tubing and 3D printed components</strong> – Leverages a modified version of the Marlin platform to support for 3-axis milling.</p>
+        <p><strong>NextJS, TypeScript, Tailwind CSS, Framer Motion, Sanity.io</strong> – Portfolio website for my company, DhammaDevs</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Wi-Fi Web & Voice Remote</h3>
 
-![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
+<td width="50%" valign="top">
+      <h3>Chess Game & Engine</h3>
+
+![](https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png)
 
   <p>
-  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
+  <a href="https://github.com/RobbieProkop/chess" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
       </p>
-        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WiFi-enabled microcontroller and IR sensors.</p>
+        <p><strong>React, SCSS, Node, Express</strong> – This app is currently in progress. Check out my the development by clicking on the "code" button</p>
     </td>
 
   </tr>
 </table>
-</section> -->
+</section>
 
 ## Current Tech Stack
 
