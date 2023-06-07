@@ -41,7 +41,7 @@
 <h3>DhammaDevs</h3>
 
 <!-- ![](https://github.com/RobbieProkop/portfolio/blob/master/asset/images/portfolio-gif.gif) -->
-<img src="https://github.com/RobbieProkop/portfolio/blob/master/asset/images/portfolio-gif.gif" max-height="235">
+<img src="https://github.com/RobbieProkop/portfolio/blob/master/asset/images/portfolio-gif.gif" height="235">
 
   <p>
   <a href="https://github.com/RobbieProkop/portfolio" target="_blank">
@@ -77,7 +77,7 @@
 
 <!-- ![](https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png) -->
 
-<img src="https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png" max-height="220">
+<img src="https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png" height="220" max-height="220">
   <p>
   <a href="https://github.com/RobbieProkop/chess" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
