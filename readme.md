@@ -37,22 +37,6 @@
         <p><strong>Astro, React, Svelte, SCSS</strong> – Website for a Calgary based Message Therapist</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Scheduler</h3>
-
-![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
-
-  <p>
-  <a href="https://github.com/RobbieProkop/scheduler" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-
-  </a>
-      </p>
-        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
-    </td>
-  </tr>
-
-  <tr>
-<td width="50%" valign="top">
 
 <h3>DhammaDevs</h3>
 
@@ -68,6 +52,23 @@
   </a>
       </p>
         <p><strong>NextJS, TypeScript, Tailwind CSS, Framer Motion, Sanity.io</strong> – Portfolio website for my company, DhammaDevs</p>
+    </td>
+    
+  </tr>
+
+  <tr>
+<td width="50%" valign="top">
+      <h3>Scheduler</h3>
+
+![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
+
+  <p>
+  <a href="https://github.com/RobbieProkop/scheduler" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+
+  </a>
+      </p>
+        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
     </td>
 
 <td width="50%" valign="top">
