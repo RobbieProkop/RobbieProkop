@@ -4,11 +4,11 @@
 </br>
 
 <div align="left">
-<p align="left">I'm a full-stack web developer based out of Calgary, AB, currently working as a freelancer. Prior to freelancing, I was working on contract as a full-stack web developer for <a href="https://www.fl2f.ca/home">FL2F</a>. </p>
+<p align="left">I'm a full-stack web developer based in Calgary, AB, currently working as a freelancer. Prior to freelancing, I was working on contract as a full-stack web developer for <a href="https://www.fl2f.ca/home">FL2F</a>. </p>
 
-🌱 In my freetime, I'm working on building a chess app and a custom chess engine.
+🌱 In my freetime, I'm deepening my understanding of technologies such as nextJS, and Swift.
 
-⚡ When I'm not programming, I'm either meditating at a Vipassana Center, volunteering at one, or I'm playing with my cat and dog.
+⚡ When I'm not programming, I'm either meditating at a Vipassana Center, volunteering at one, or playing with my cat and dog.
 
 </div>
 
