@@ -4,9 +4,9 @@
 </br>
 
 <div align="left">
-<p align="left">I'm a full-stack web developer based in Calgary, AB, currently working as a freelancer. Prior to freelancing, I was working on contract as a full-stack web developer for <a href="https://www.fl2f.ca/home">FL2F</a>. </p>
+<p align="left">I'm a full-stack web developer / data engineer based in Calgary, AB, currently working for StellarAlgo. Prior to StellarAlgo, I was freelancing as a web developer, and I was working on contract as a full-stack web developer for <a href="https://www.fl2f.ca/home">FL2F</a>. </p>
 
-🌱 In my freetime, I'm deepening my understanding of technologies such as nextJS, and Swift.
+🌱 In my freetime, I'm deepening my understanding of Python, data structures, and algorithms.
 
 ⚡ When I'm not programming, I'm either meditating at a Vipassana Center, volunteering at one, or playing with my cat and dog.
 
