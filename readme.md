@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>
       </p>
-        <p><strong>React, SCSS, Node, Express</strong> – This app is currently in progress. Check out my the development by clicking on the "code" button</p>
+        <p><strong>React, SCSS, Node, Express</strong> – This app is currently in progress, and by progress I mean that I just started 👀. Check out my the development by clicking on the "code" button</p>
     </td>
 
   </tr>
