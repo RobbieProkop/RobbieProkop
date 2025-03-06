@@ -4,11 +4,10 @@
 </br>
 
 <div align="left">
-<p align="left">I'm a full-stack web developer / data engineer based in Calgary, AB, currently working for StellarAlgo. Prior to StellarAlgo, I was freelancing as a web developer, and I was working on contract as a full-stack web developer for <a href="https://www.fl2f.ca/home">FL2F</a>. </p>
+<p align="left">I'm a full-stack web developer/data engineer based in Calgary, AB, currently working for StellarAlgo. I'm also working as a Full Stack Developer contractor.
+🌱 In my free time, I'm deepening my understanding of Python, data structures, and data pipelines.
 
-🌱 In my freetime, I'm deepening my understanding of Python, data structures, and algorithms.
-
-⚡ When I'm not programming, I'm either meditating at a Vipassana Center, volunteering at one, or playing with my cat and dog.
+⚡ When I'm not programming or learning about development, I'm playing with my daughter, cat, and dog.
 
 </div>
 
@@ -72,19 +71,7 @@
         <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
     </td>
 
-<td width="50%" valign="top">
-      <h3>Chess Game & Engine</h3>
 
-<!-- ![](https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png) -->
-
-<img src="https://github.com/RobbieProkop/chess/blob/master/frontend/public/assets/chess.png" height="220" max-height="220">
-  <p>
-  <a href="https://github.com/RobbieProkop/chess" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>
-      </p>
-        <p><strong>React, SCSS, Node, Express</strong> – This app is currently in progress, and by progress I mean that I just started 👀. Check out my development by clicking on the "code" button</p>
-    </td>
 
   </tr>
 </table>
