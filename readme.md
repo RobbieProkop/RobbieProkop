@@ -4,10 +4,8 @@
 </br>
 
 <div align="left">
-<p align="left">I'm a full-stack web developer/data engineer based in Calgary, AB, currently working for StellarAlgo. I'm also working as a Full Stack Developer contractor.
+<p align="left">I'm a full-stack developer/data engineer. I'm currently working as a Full Stack Developer contractor.
 🌱 In my free time, I'm deepening my understanding of Python, data structures, and data pipelines.
-
-⚡ When I'm not programming or learning about development, I'm playing with my daughter, cat, and dog.
 
 </div>
 
