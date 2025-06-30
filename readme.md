@@ -4,7 +4,7 @@
 </br>
 
 <div align="left">
-<p align="left">I'm a full-stack developer/data engineer. I'm currently working as a Full Stack Developer contractor.
+<p align="left">I'm a full-stack developer/data engineer
 🌱 In my free time, I'm deepening my understanding of Python, data structures, and data pipelines.
 
 </div>
